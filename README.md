@@ -1,5 +1,3 @@
-# -node-
-see in readme
 # 定义二叉树节点
 class TreeNode:
     def __init__(self, val=0, left=None, right=None):
